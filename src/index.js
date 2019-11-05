@@ -175,7 +175,7 @@ IframeResizer.defaultProps = {
     // onInit: () => { console.log('ready!'); },
     // onResized: () => { console.log('resized!'); },
   },
-  iframeResizerUrl: 'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.3/iframeResizer.contentWindow.min.js',
+  iframeResizerUrl: 'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.1/iframeResizer.contentWindow.min.js',
   // misc props to pass through to iframe
   frameBorder: 0,
   style: {
